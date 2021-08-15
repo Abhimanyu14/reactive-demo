@@ -1,0 +1,4 @@
+<resources>
+    <!-- app name -->
+    <string name="app_name">Reactive Demo</string>
+</resources>
